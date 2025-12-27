@@ -18,13 +18,16 @@ It aims to reduce manual work, improve efficiency, and provide a smooth digital 
 
 ## 🖼️ Screenshots
 
-### 🏠 Home Page
-
-![Home Page](./images/home.png)
-
-### 🔑 Login / User Page
-
-![Login Page](./images/login.png)
+![Login Page](<img width="500" height="400" alt="sign-in" src="https://github.com/user-attachments/assets/4a8701db-92a3-4d60-8805-99e006554a19" />
+)
+![Home Page](<img width="500" height="400" alt="Home" src="https://github.com/user-attachments/assets/0cb13a38-dfa3-4233-95a7-c62ce7abb347" />
+)
+![Product Page](<img width="500" height="400" alt="Product" src="https://github.com/user-attachments/assets/c108f33e-927c-4685-898f-bec496a4e98c" />
+)
+![Order Page](<img width="500" height="400" alt="Payment" src="https://github.com/user-attachments/assets/398bca0e-9cb3-46b3-864e-4d2284495355" />
+)
+![Payment Page](<img width="500" height="400" alt="payment2" src="https://github.com/user-attachments/assets/899ee045-0eed-4db7-9eb3-8df676a2ab99" />
+)
 
 ---
 
