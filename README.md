@@ -18,7 +18,7 @@ It aims to reduce manual work, improve efficiency, and provide a smooth digital 
 
 ## 🖼️ Screenshots
 
-![Login Page](<img width="500" height="400" alt="sign-in" src="https://github.com/user-attachments/assets/4a8701db-92a3-4d60-8805-99e006554a19" />
+![Login Page](<img width="800" height="700" alt="sign-in" src="https://github.com/user-attachments/assets/4a8701db-92a3-4d60-8805-99e006554a19" />
 )
 ![Home Page](<img width="500" height="400" alt="Home" src="https://github.com/user-attachments/assets/0cb13a38-dfa3-4233-95a7-c62ce7abb347" />
 )
