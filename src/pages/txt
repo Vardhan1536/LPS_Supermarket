@@ -1,0 +1,18 @@
+{
+      id: '1',
+      name: '₹50 Off on Next Purchase',
+      diamonds: 17,
+      image: 'https://images.unsplash.com/photo-1612178537253-bccd437b730e?w=500&q=80'
+    },
+    {
+      id: '2',
+      name: 'Free Delivery (3 Orders)',
+      diamonds: 25,
+      image: 'https://images.unsplash.com/photo-1586769852044-692d6e3703f0?w=500&q=80'
+    },
+    {
+      id: '3',
+      name: 'Premium Membership (1 Month)',
+      diamonds: 100,
+      image: 'https://images.unsplash.com/photo-1634973357973-f2ed2657db3c?w=500&q=80'
+    }
