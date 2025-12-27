@@ -1,4 +1,4 @@
-<img width="1912" height="913" alt="sign-in" src="https://github.com/user-attachments/assets/fdf210f9-5a8a-43d1-8f06-07d0165587cc" /># 🛒 LPS Supermarket Management System
+# 🛒 LPS Supermarket Management System
 
 The **LPS Supermarket Management System** is a web-based application designed to streamline supermarket operations such as product management, customer handling, and billing processes.
 It aims to reduce manual work, improve efficiency, and provide a smooth digital experience for both customers and administrators.
