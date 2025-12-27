@@ -1,4 +1,4 @@
-# 🛒 LPS Supermarket Management System
+<img width="1912" height="913" alt="sign-in" src="https://github.com/user-attachments/assets/fdf210f9-5a8a-43d1-8f06-07d0165587cc" /># 🛒 LPS Supermarket Management System
 
 The **LPS Supermarket Management System** is a web-based application designed to streamline supermarket operations such as product management, customer handling, and billing processes.
 It aims to reduce manual work, improve efficiency, and provide a smooth digital experience for both customers and administrators.
@@ -18,16 +18,15 @@ It aims to reduce manual work, improve efficiency, and provide a smooth digital 
 
 ## 🖼️ Screenshots
 
-![Login Page](<img width="800" height="700" alt="sign-in" src="https://github.com/user-attachments/assets/4a8701db-92a3-4d60-8805-99e006554a19" />
-)
-![Home Page](<img width="500" height="400" alt="Home" src="https://github.com/user-attachments/assets/0cb13a38-dfa3-4233-95a7-c62ce7abb347" />
-)
-![Product Page](<img width="500" height="400" alt="Product" src="https://github.com/user-attachments/assets/c108f33e-927c-4685-898f-bec496a4e98c" />
-)
-![Order Page](<img width="500" height="400" alt="Payment" src="https://github.com/user-attachments/assets/398bca0e-9cb3-46b3-864e-4d2284495355" />
-)
-![Payment Page](<img width="500" height="400" alt="payment2" src="https://github.com/user-attachments/assets/899ee045-0eed-4db7-9eb3-8df676a2ab99" />
-)
+<img width="1912" height="913" alt="sign-in" src="https://github.com/user-attachments/assets/672d2ce7-cd25-41ce-960f-32031a165973" />
+
+<img width="500" height="400" alt="Home" src="https://github.com/user-attachments/assets/0cb13a38-dfa3-4233-95a7-c62ce7abb347" />
+
+<img width="500" height="400" alt="Product" src="https://github.com/user-attachments/assets/c108f33e-927c-4685-898f-bec496a4e98c" />
+
+<img width="500" height="400" alt="Payment" src="https://github.com/user-attachments/assets/398bca0e-9cb3-46b3-864e-4d2284495355" />
+
+<img width="500" height="400" alt="payment2" src="https://github.com/user-attachments/assets/899ee045-0eed-4db7-9eb3-8df676a2ab99" />
 
 ---
 
